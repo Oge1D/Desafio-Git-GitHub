@@ -23,6 +23,7 @@
 - **Git Push origin main ou master:**  Quando se da esse comando sai do *Git commit -m "mensagem"* ambiente de desenvolvimento para o servidor remoto *(GitHub)*;
 - **Git Clone "Endereço":** Cópia o endereço dos repositórios *(seu ou de terceiros)* para a sua máquina;
 - **Git Remote -v:** Mostra o endereço onde esse repositorio está localizado
+- **Git Remote Add Origin:** Essa função aponta para onde será enviado os seus repositórios do seu ambiente de desenvolvimento.
 
 
 
@@ -79,7 +80,7 @@ Os comandos utilizados são:
 - **Git pull origin main ou master:** Quando se da o comando *Git pull origin "Endereço de onde se quer puxar o repositório* sai do Servidor Remoto (GitHub) para o seu ambiente de desenvolvimento;
 - **Git Push origin main ou master:**  Quando se da esse comando sai do *Git commit -m "mensagem"* ambiente de desenvolvimento para o servidor remoto *(GitHub)*;
 
-
+- **Git Remote Add Origin:** Essa função aponta para onde será enviado os seus repositórios do seu ambiente de desenvolvimento.
 
 #### Git Init
 
